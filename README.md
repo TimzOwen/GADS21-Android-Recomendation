@@ -13,3 +13,11 @@ Android development recommendation for outdated libraries and current libraries 
   4. android Connectivity
   
   5. Android Data persistance and storage 
+
+### GADS21 starter Repo:
+
+Get all the pluralsight Instructor starter repo with the current libraries included
+
+### Android Related articles:
+
+Learn more android related articles like Medium and android labs related to GADS21 Android topics
