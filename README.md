@@ -1,8 +1,8 @@
-# GADS21-Android-Recomendation
+## GADS21-Android-Recomendation-For currently used libraries and dependencies 
 
 Android development recommendation for outdated libraries and current libraries preferred as of 2021 
 
-## Repository study order:
+### Repository study order:
 
   1. Kotlin programming
   
