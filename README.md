@@ -4,7 +4,7 @@ Android development recommendation for outdated libraries and current libraries 
 
 ### Repository study order:
 
-  1. Kotlin programming
+  1. Kotlin programming (Beginner - Intermediate guide)
   
   2. Android Layouts
   
